@@ -1,25 +1,4 @@
-<p align="center">
-  <b>English</b> ·
-  <a href="docs/readme/README_zh-CN.md">简体中文</a> ·
-  <a href="docs/readme/README_zh-TW.md">繁體中文</a> ·
-  <a href="docs/readme/README_ja.md">日本語</a> ·
-  <a href="docs/readme/README_ko.md">한국어</a> ·
-  <a href="docs/readme/README_hi.md">हिन्दी</a> ·
-  <a href="docs/readme/README_th.md">ไทย</a> ·
-  <a href="docs/readme/README_fr.md">Français</a> ·
-  <a href="docs/readme/README_de.md">Deutsch</a> ·
-  <a href="docs/readme/README_es.md">Español</a> ·
-  <a href="docs/readme/README_it.md">Italiano</a> ·
-  <a href="docs/readme/README_ru.md">Русский</a> ·
-  <a href="docs/readme/README_pt-BR.md">Português (Brasil)</a> ·
-  <a href="docs/readme/README_nl.md">Nederlands</a> ·
-  <a href="docs/readme/README_pl.md">Polski</a> ·
-  <a href="docs/readme/README_ar.md">العربية</a> ·
-  <a href="docs/readme/README_fa.md">فارسی</a> ·
-  <a href="docs/readme/README_tr.md">Türkçe</a> ·
-  <a href="docs/readme/README_vi.md">Tiếng Việt</a> ·
-  <a href="docs/readme/README_id.md">Bahasa Indonesia</a>
-</p>
+INTERN ID:CIS441
 
 # SparkyFitness
 
